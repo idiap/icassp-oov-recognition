@@ -1,3 +1,5 @@
+If you have questions send an email to rab014 (at) gmail.com !
+
 # icassp-oov-recognition
 
 This has data and code related to the paper accepted at ICASSP21 "A comparison of methods for OOV-word recognition on a new Public Dataset": 
